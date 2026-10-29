@@ -1,0 +1,8 @@
+{
+    "lib": "libvart-dpu-runner.so",
+    "filename": "encoder_96_4b_w25.xmodel",
+    "kernel": [
+        "subgraph_Encoder__Encoder_AdaptiveAvgPool2d_gap__917_i0"
+    ],
+    "target": "DPUCZDX8G_ISA1_B512"
+}
